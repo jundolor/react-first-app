@@ -2,7 +2,7 @@
 import PhoneIcon from '../assets/images/phone-icon.png'
 import MailIcon from '../assets/images/mail-icon.png'
 
-export default function(props){
+export default function Contact(props){
     return (
         <article className="contact-card">
             <img 

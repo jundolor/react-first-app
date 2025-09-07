@@ -5,7 +5,8 @@ import Whiskerson from '../src/assets/images/mr-whiskerson.png'
 import Fluffykins from '../src/assets/images/fluffykins.png'
 import Felix from '../src/assets/images/felix.png'
 import Pumpkin from '../src/assets/images/pumpkin.png'
-import Contact from './components/Contact'
+//import Contact from './components/Contact'
+import { Contact } from "./Contact"
 import './App.css';
 
 function App() {
